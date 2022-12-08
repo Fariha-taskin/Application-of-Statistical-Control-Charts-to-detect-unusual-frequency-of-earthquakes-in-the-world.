@@ -1,3 +1,4 @@
+<p style='text-align: justify;'>
 ## Overview
 This project was done while I was doing my bachelor’s degree at ISRT of the University of Dhaka. This paper has been published in the Journal of Data Science in 2020 and here is the link https://doi.org/10.6339/JDS.202001_18(1).0002 
 
@@ -21,3 +22,4 @@ United States Geological Survey (USGS) is one of the providers of earthquake dat
 * In this project, it has shown that there are two shifts in the mean of the number of earthquakes. For the year 1900-1949, the mean was very small. Besides, for the years 1950-1972 the mean had increased slightly.
 * We witnessed a tremendous shift in mean in 1973. 
 * There can be several reasons for this significant difference. It is possible that at the beginning of the 1900s, the measurement and detecting equipment of earthquakes were very ancient that those could not detect the earthquake correctly. Yet, maybe in the 1900s earthquake did not appear as frequently as they are now. 
+</p>  
