@@ -1,9 +1,7 @@
-<p style='text-align: justify;'>
 ## Overview
 This project was done while I was doing my bachelor’s degree at ISRT of the University of Dhaka. This paper has been published in the Journal of Data Science in 2020 and here is the link https://doi.org/10.6339/JDS.202001_18(1).0002 
-
-## Introduction
-Earthquake in recent years has increased tremendously. This paper outlines an evaluation of the Cumulative Sum (𝐶𝑈𝑆𝑈𝑀) and Exponentially Weighted Moving Average (𝐸𝑊𝑀𝐴) charting technique to determine if the frequency of earthquakes in the world is unusual. The frequency of earthquakes in the world is considered from the period 1973 to 2016. As our data is autocorrelated we cannot use the regular control chart like the Shewhart control chart to detect unusual earthquake frequency. An approach that has proved useful in dealing with autocorrelated data is to directly model time series models such as Autoregressive Integrated Moving Average (𝐴𝑅𝐼𝑀𝐴) and apply control charts to the residuals. The 𝐸𝑊𝑀𝐴 control chart and the 𝐶𝑈𝑆𝑈𝑀 control chart have detected unusual frequencies of earthquakes in the year 2012 and 2013 which are state of statistically out of control.
+<p style='text-align: justify;'>## Introduction
+Earthquake in recent years has increased tremendously. This paper outlines an evaluation of the Cumulative Sum (𝐶𝑈𝑆𝑈𝑀) and Exponentially Weighted Moving Average (𝐸𝑊𝑀𝐴) charting technique to determine if the frequency of earthquakes in the world is unusual. The frequency of earthquakes in the world is considered from the period 1973 to 2016. As our data is autocorrelated we cannot use the regular control chart like the Shewhart control chart to detect unusual earthquake frequency. An approach that has proved useful in dealing with autocorrelated data is to directly model time series models such as Autoregressive Integrated Moving Average (𝐴𝑅𝐼𝑀𝐴) and apply control charts to the residuals. The 𝐸𝑊𝑀𝐴 control chart and the 𝐶𝑈𝑆𝑈𝑀 control chart have detected unusual frequencies of earthquakes in the year 2012 and 2013 which are state of statistically out of control. </p>  
 
 The methods used in this paper are:
 * Cumulative Sum (𝐶𝑈𝑆𝑈𝑀)
@@ -22,4 +20,4 @@ United States Geological Survey (USGS) is one of the providers of earthquake dat
 * In this project, it has shown that there are two shifts in the mean of the number of earthquakes. For the year 1900-1949, the mean was very small. Besides, for the years 1950-1972 the mean had increased slightly.
 * We witnessed a tremendous shift in mean in 1973. 
 * There can be several reasons for this significant difference. It is possible that at the beginning of the 1900s, the measurement and detecting equipment of earthquakes were very ancient that those could not detect the earthquake correctly. Yet, maybe in the 1900s earthquake did not appear as frequently as they are now. 
-</p>  
+
