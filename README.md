@@ -18,7 +18,7 @@ The methods used in this paper are:
 <div align= "justify">United States Geological Survey (USGS) is one of the providers of earthquake data from all over the world. The data provided by USGS for year 1900 to 2016 contains too many variables. Our variables of interest are year of occurrence and magnitude.</div>
 
 ## Findings: 
-<div align= "justify">* In this project, it has shown that there are two shifts in the mean of the number of earthquakes. For the year 1900-1949, the mean was very small. Besides, for the years 1950-1972 the mean had increased slightly.</div>
-<div align= "justify">* We witnessed a tremendous shift in mean in 1973.</div> 
-<div align= "justify">* There can be several reasons for this significant difference. It is possible that at the beginning of the 1900s, the measurement and detecting equipment of earthquakes were very ancient that those could not detect the earthquake correctly. Yet, maybe in the 1900s earthquake did not appear as frequently as they are now.</div> 
+* <div align= "justify">In this project, it has shown that there are two shifts in the mean of the number of earthquakes. For the year 1900-1949, the mean was very small. Besides, for the years 1950-1972 the mean had increased slightly.</div>
+* <div align= "justify">We witnessed a tremendous shift in mean in 1973.</div> 
+* <div align= "justify">There can be several reasons for this significant difference. It is possible that at the beginning of the 1900s, the measurement and detecting equipment of earthquakes were very ancient that those could not detect the earthquake correctly. Yet, maybe in the 1900s earthquake did not appear as frequently as they are now.</div> 
 
